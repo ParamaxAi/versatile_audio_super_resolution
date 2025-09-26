@@ -43,7 +43,7 @@ REQUIRED = [
     "pyyaml",
     "einops",
     "chardet",
-    "numpy<=1.23.5",
+    "numpy",
     "soundfile",
     "librosa",
     "scipy",
